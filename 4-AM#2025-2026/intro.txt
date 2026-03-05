@@ -1,0 +1,26 @@
+============================================================
+       🚀 BENVENUTI NELLA REPO DI MANCINI-MA-TECH 🚀
+============================================================
+
+📌 PROPRIETARIO: Massimiliano (Massi)
+🏫 CLASSE: [Inserisci qui l'anno e la sezione, tipo 3IA o 4IB]
+📂 REPOSITORY: School-mancini-ma
+🔗 URL: https://github.com/mancini-ma-tech/School-mancini-ma.git
+
+------------------------------------------------------------
+"Il codice non è solo logica, è una forma d'arte... 
+ specialmente quando compila al primo colpo (evento raro)."
+------------------------------------------------------------
+
+📖 DESCRIZIONE:
+Questo spazio contiene tutti i miei deliri informatici, 
+esercitazioni, progetti e sogni digitali sviluppati 
+durante l'anno scolastico 2026.
+
+🛠 NOTE TECNICHE:
+- Se il codice non funziona, è colpa del compilatore.
+- Se il codice funziona, non toccare nulla.
+- Linguaggi principali: [Es. C++, Java, Python, HTML/CSS]
+
+Copyright (c) 2026 - Mancini-ma-tech
+============================================================
